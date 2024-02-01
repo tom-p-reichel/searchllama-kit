@@ -1,0 +1,5 @@
+accelerate
+bitsandbytes
+peft
+llama-recipes @ git+https://github.com/tom-p-reichel/llama-recipes.git@searchllama-kit
+transformers @ git+https://github.com/tom-p-reichel/transformers.git@searchllama-kit
